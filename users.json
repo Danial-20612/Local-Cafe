@@ -9,61 +9,8 @@
             "name": "Danial",
             "username": "danial20612",
             "password": "$2b$12$tmovFoJTHcxyZ34ume7E3ei5JKUag8vvrKsatRN1T5hM7.EESjXBu"
-        },
-        {
-            "name": "d",
-            "username": "d",
-            "password": "$2b$12$ryMgtxCJXm2AjFhabq25ouHYnwFlIEJ6sMkTnO0OTuD3D8QSuDQkC"
-        },
-        {
-            "name": "e",
-            "username": "e",
-            "password": "$2b$12$8WnoiENJzezHCZ9sJ5n3COyhQ8OXQl4Bf5DX/psLkFZ1PhUPRRY9."
-        },
-        {
-            "name": "t",
-            "username": "t",
-            "password": "$2b$12$Huxe0xKiUELDMmNmrfXD1uiePc9M6ZgklJhoLd2usiBvvQHiFwy26"
-        },
-        {
-            "name": "y",
-            "username": "y",
-            "password": "$2b$12$JXjo.TcDG.0Zwf1/DGW33ep9uxR6vorm.IqnPHFUq9iFaD8SC9l8e"
-        },
-        {
-            "name": "y",
-            "username": "y",
-            "password": "$2b$12$fKCaAfHRsLVj1ntCiecwq.zzdRwq89s.rMa/I2VFPRaII3o0VYIDO"
-        },
-        {
-            "name": "s",
-            "username": "s",
-            "password": "$2b$12$BYGVTjrV7m6.z/hiTFUGv.7U1s5dfIaftLbloo6Y3zpcDtUZUPtEu"
-        },
-        {
-            "name": "f",
-            "username": "f",
-            "password": "$2b$12$R1rVk49MMht2.PItJcxNZOffAQtMYIrRgreU17r6K1Nw.l28vFDia"
-        },
-        {
-            "name": "c",
-            "username": "c",
-            "password": "$2b$12$GS611cB00oluQAIWfTXQF.F.WZny6WM7VbUrMUfuQAjZHQxyIet2y"
-        },
-        {
-            "name": "y",
-            "username": "y",
-            "password": "$2b$12$vxTbfQxMv2t2DX4VvXNXCuzIQ.9Mf/bwp.6B8bMRN4vYC/v0S4N0K"
-        },
-        {
-            "name": "c",
-            "username": "c",
-            "password": "$2b$12$TK8f7NWLs1ocZ8flaZ6hw.dv1J.25qWe4pklnitAy9Xg4wC1ioCmm"
-        },
-        {
-            "name": "y",
-            "username": "y",
-            "password": "$2b$12$tlwShJzPfcHKbE051wjxquCTUEzWVJgLRhzcXp/f1miQJHGLM6MtK"
         }
+
     ]
+        
 }
